@@ -1,0 +1,80 @@
+body {
+    font-family: sans-serif;
+    background-color: darkgoldenrod;
+}
+
+h1 {
+    text-align: center;
+    
+    
+}
+footer  {
+background-color: snow ;
+font-size: xx-large ;
+}
+
+
+header  {
+
+background-color: snow ;
+
+}
+
+
+
+h2  {
+
+     font-size: x-large ;
+
+}
+
+
+
+   h3   {
+
+         font-size: x-large;
+
+   }
+
+
+   h4  {
+
+         font-size: x-large;
+         background-color: greenyellow;
+
+   }
+
+
+
+   h5   {
+
+        font-size: xx-large ;
+        background-color: blue;
+        color: gold;
+   }
+
+
+
+   h6   {
+
+       background-color: orchid;
+       font-size: x-large;
+       text-align: center;
+   }
+
+
+   h7  {
+
+background-color: green;
+
+   }
+
+
+
+   h8  {
+font-size: xx-large;
+color: lightred;
+background-color: lightpink;
+text-align: center;
+   }
+  
